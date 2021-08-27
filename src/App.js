@@ -8,7 +8,7 @@ const loading = (
   </div>
 )
 
-// Containers
+
 const TheLayout = React.lazy(() => import('./containers/TheLayout'));
 
 // Pages
